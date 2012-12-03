@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, Main!</string>
+    <string name="app_name">MultiPreference</string>
+	<string name="level1_pref1_title">Level 1 Preference 1</string>
+	<string name="level1_pref1_summary">Click to change to Level 2</string>
+	<string name="level1_pref1_key">LEVEL11</string>
+	
+	<string name="level1_pref2_title">Level 1 Preference 2</string>
+	<string name="level1_pref2_summary">Click to change to Another Level 2</string>
+	<string name="level1_pref2_key">LEVEL12</string>
+	
+	<string name="level2_pref1_title">Level 2 Preference</string>
+	<string name="level2_pref1_summary">Level 2 Summary</string>
+	<string name="level2_pref1_key">LEVEL21</string>
+	
+	<string name="level2_pref2_title">Another Level 2 Preference</string>
+	<string name="level2_pref2_summary">Another Level 2 Summary</string>
+	<string name="level2_pref2_key">LEVEL22</string>
+        
+</resources>

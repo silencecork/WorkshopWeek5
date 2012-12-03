@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, Main!</string>
+    <string name="app_name">Tic-tac-toe</string>
+    <string name="record">W %1$d / L %2$d</string>
+    <string name="turn">Turn to</string>
+    <string name="win">WIN!</string>
+    <string name="draw_game">Draw Game</string>
+	<string name="game_rule">The object of Tic Tac Toe is to get three in a row. You play on a three by three game board. The first player is known as X and the second is O. Players alternate placing Xs and Os on the game board until either oppent has three in a row or all nine squares are filled. X always goes first, and in the event that no one has three in a row, the stalemate is called a cat game</string>
+        
+</resources>

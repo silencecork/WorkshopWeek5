@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, Main!</string>
+    <string name="app_name">Chat</string>
+    <string name="server">Server</string>
+    <string name="client">Client</string>
+    <string name="connected_ip">connected ip is %s</string>
+    <string name="input_server_ip">Input Server IP Address</string>
+    <string name="ip_title">Connection</string>
+	<string name="btn_ok">OK</string>
+	<string name="btn_cancel">Cancel</string>
+	<string name="connecting">You are connecting %s</string>
+	<string name="success">Connection success</string>
+	<string name="hint_input_message">"Input message "</string>
+	<string name="btn_send">Send</string>
+	<string name="me">Me:</string>
+	<string name="receive">Receive:</string>
+	<string name="create_chat">Establish chat</string>
+	<string name="connect_chat">Connect to chat</string>
+	<string name="connection_error">Connection occur error</string>
+        
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, Main!</string>
+    <string name="app_name">井字遊戲</string>
+    <string name="record">贏 %1$d / 輸 %2$d</string>
+    <string name="turn">現在操作者是</string>
+    <string name="win">獲勝！</string>
+    <string name="draw_game">不相上下</string>
+	<string name="game_rule">只限二位玩家，第一位玩家用O為代號，第二位玩家用X，最先取得3個連成一線的符號位元為勝方 </string>
+        
+</resources>

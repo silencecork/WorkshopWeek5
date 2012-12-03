@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <Preference
+        android:key="@string/level1_pref1_key" 
+        android:title="@string/level1_pref1_title"
+        android:summary="@string/level1_pref1_summary"/>
+    <Preference
+        android:key="@string/level1_pref2_key" 
+        android:title="@string/level1_pref2_title"
+        android:summary="@string/level1_pref2_summary"/>
+
+</PreferenceScreen>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <EditTextPreference
+        android:key="@string/level2_pref2_key"
+        android:title="@string/level2_pref2_title"
+        android:summary="@string/level2_pref2_summary"/>
+
+</PreferenceScreen>

@@ -1,0 +1,24 @@
+{
+   "html_attributions" : [
+      "商家資訊提供者：\u003ca href=\"http://www.kingwaytek.com/\"\u003eKingway\u003c/a\u003e"
+   ],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 24.9761310,
+               "lng" : 121.5466990
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "051e8b9d25273cdcf63c8429bb494dd5d4aea843",
+         "name" : "家樂福",
+         "rating" : 4.10,
+         "reference" : "...",
+         "types" : [ "food", "establishment" ],
+         "vicinity" : "新店區中興路三段1號3樓"
+      },
+	  {...},
+	  "status" : "OK"
+}
+
